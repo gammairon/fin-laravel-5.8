@@ -1,6 +1,9 @@
 /node_modules
+/.well-known
+/.idea
 /public/hot
 /public/storage
+/storage/app
 /storage/*.key
 /vendor
 .env
