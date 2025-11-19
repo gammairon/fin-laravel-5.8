@@ -1,0 +1,40 @@
+[03-Jul-2019 14:04:01 Europe/Kiev] PHP Warning:  Uncaught ErrorException: require(E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php): failed to open stream: No such file or directory in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php:92
+Stack trace:
+#0 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(E:\\Open...', '/home/nominalco...', 92, Array)
+#1 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): require()
+#2 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(61): DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->registerBreadcrumbs()
+#3 [internal function]: DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->boot()
+#4 /home/nominalcom/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_f in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:04:01 Europe/Kiev] PHP Fatal error:  DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider::registerBreadcrumbs(): Failed opening required 'E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:05:01 Europe/Kiev] PHP Warning:  Uncaught ErrorException: require(E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php): failed to open stream: No such file or directory in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php:92
+Stack trace:
+#0 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(E:\\Open...', '/home/nominalco...', 92, Array)
+#1 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): require()
+#2 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(61): DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->registerBreadcrumbs()
+#3 [internal function]: DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->boot()
+#4 /home/nominalcom/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_f in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:05:01 Europe/Kiev] PHP Fatal error:  DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider::registerBreadcrumbs(): Failed opening required 'E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:06:02 Europe/Kiev] PHP Warning:  Uncaught ErrorException: require(E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php): failed to open stream: No such file or directory in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php:92
+Stack trace:
+#0 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(E:\\Open...', '/home/nominalco...', 92, Array)
+#1 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): require()
+#2 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(61): DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->registerBreadcrumbs()
+#3 [internal function]: DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->boot()
+#4 /home/nominalcom/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_f in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:06:02 Europe/Kiev] PHP Fatal error:  DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider::registerBreadcrumbs(): Failed opening required 'E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:07:01 Europe/Kiev] PHP Warning:  Uncaught ErrorException: require(E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php): failed to open stream: No such file or directory in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php:92
+Stack trace:
+#0 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(E:\\Open...', '/home/nominalco...', 92, Array)
+#1 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): require()
+#2 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(61): DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->registerBreadcrumbs()
+#3 [internal function]: DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->boot()
+#4 /home/nominalcom/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_f in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:07:01 Europe/Kiev] PHP Fatal error:  DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider::registerBreadcrumbs(): Failed opening required 'E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:08:01 Europe/Kiev] PHP Warning:  Uncaught ErrorException: require(E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php): failed to open stream: No such file or directory in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php:92
+Stack trace:
+#0 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(E:\\Open...', '/home/nominalco...', 92, Array)
+#1 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(92): require()
+#2 /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php(61): DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->registerBreadcrumbs()
+#3 [internal function]: DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider->boot()
+#4 /home/nominalcom/public_html/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(32): call_user_f in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
+[03-Jul-2019 14:08:01 Europe/Kiev] PHP Fatal error:  DaveJamesMiller\Breadcrumbs\BreadcrumbsServiceProvider::registerBreadcrumbs(): Failed opening required 'E:\OpenServerNew\domains\nominal.pr\routes/breadcrumbs.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/nominalcom/public_html/vendor/davejamesmiller/laravel-breadcrumbs/src/BreadcrumbsServiceProvider.php on line 92
